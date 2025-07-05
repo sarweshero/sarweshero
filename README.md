@@ -69,10 +69,10 @@ I'm **Sarweshwar**, a passionate software engineer and co-founder of **Xyndrix**
 
 | Platform   | Link                                                |
 |------------|-----------------------------------------------------|
-| 🔗 Portfolio | [https://sarweshero.github.io](https://sarweshero.github.io) |
-| 💼 LinkedIn | [linkedin.com/in/sarweshwar](https://linkedin.com/in/sarweshwar) |
+| 🔗 Portfolio | [https://sarweshero.github.io](https://sarweshero.vercel.app) |
+| 💼 LinkedIn | [linkedin.com/in/sarweshwar](https://linkedin.com/in/sarweshero) |
 | 💻 GitHub   | [github.com/sarweshero](https://github.com/sarweshero) |
-| 📧 Email    | [youremail@example.com](mailto:youremail@example.com) |
+| 📧 Email    | [sarweshero@gmail.com](mailto:sarweshero@gmail.com) |
 
 ---
 
