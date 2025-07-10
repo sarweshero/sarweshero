@@ -8,20 +8,16 @@
 <p align="center">
   🚀 Full-Stack Developer (Backend Focused) | 🧠 Deep Learning Engineer | 🛠️ Software Architect  
   <br>
-  Co-Founder at <strong>Xyndrix</strong> | Innovating in the Metaverse & AI-powered software solutions
-</p>
-
-
-# 💫 About Me:
-## Hi there, I'm Natesan K 👋
-
-### I'm a passionate Computer Science and Engineering student from Tamil Nadu, India, currently studying at Karpagam Academy of Higher Education. I specialize in full-stack web development using Django and React, and mobile app development with React Native. My interests lie in AI and machine learning, and I've worked on projects like an AI-powered image classification system for plant disease detection. I'm eager to collaborate on innovative projects and contribute to the tech community!
+  ### Co-Founder at <strong>Xyndrix</strong> | Innovating in the Metaverse & AI-powered software solutions
+  ## I'm a passionate Computer Science and Engineering student from Tamil Nadu, India, currently studying at Karpagam Academy of Higher Education. I specialize in full-stack web development using Django and React, and mobile app development with React Native. My interests lie in AI and machine learning, and I've worked on projects like an AI-powered image classification system for plant disease detection. I'm eager to collaborate on innovative projects and contribute to the tech community!
 
 - 🔭 I’m currently working on improving my AI and robotics skills
 - 🌱 I’m learning by doing and love hands-on projects
 - 💬 Ask me about web development, AI, and hackathons
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/titannatesan/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sarweshero/)
 - ⚡ Fun fact: I enjoy solving real-world problems with technology
+
+</p>
 
 
 ## Let's build something amazing together!
@@ -29,22 +25,22 @@
 <br clear='both'>
 
 <div align="left" >
-  <a href="https://www.linkedin.com/in/titannatesan/" target="_blank">
+  <a href="https://www.linkedin.com/in/sarweshero/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"/>
   </a>
-  <a href="https://www.instagram.com/titan_natesan/" target="_blank">
+  <a href="https://www.instagram.com/sarweshero/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Insta&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
   </a>
-  <a href="https://www.hackerrank.com/profile/titannatesan" target="_blank">
+  <a href="https://www.hackerrank.com/profile/sarweshero" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo" />
   </a>
-  <a href="http://t.me/TitanNatesan" target="_blank">
+  <a href="http://t.me/sarweshero" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo" />
   </a>
-  <a href="https://medium.com/@titannatesan" target="_blank">
+  <a href="https://medium.com/@sarweshero" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo" />
   </a>
-  <a href="https://www.facebook.com/TitanNatesan" target="_blank">
+  <a href="https://www.facebook.com/sarweshero" target="_blank">
     <img src="https://img.shields.io/static/v1?message=FB&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo" />
   </a>
 </div>
@@ -108,25 +104,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" />
-</div>
+</div> 
 
-<br clear="both">
+<!--<br clear="both">
 
 <img width="100%" src="https://raw.githubusercontent.com/TitanNatesan/TitanNatesan/output/snake.svg" alt="Snake animation" />
 
 <br clear="both">
-
+-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TitanNatesan&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="200" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarweshero&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="200" alt="stats graph" />
   <br clear="both">
-  <img src="https://streak-stats.demolab.com?user=TitanNatesan&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="180" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TitanNatesan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=midnight-purple&hide_border=true&order=2" height="180" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=sarweshero&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="180" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarweshero&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=midnight-purple&hide_border=true&order=2" height="180" alt="languages graph" />
   
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TitanNatesan&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true&hide_border=true)
+![](https://github-contributor-stats.vercel.app/api?username=sarweshero&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true&hide_border=true)
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TitanNatesan&radius=20&theme=nightowl&area=true&order=5&hide_border=true&hide_title=false" width="100%" alt="activity-graph graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=TitanNatesan&theme=discord&column=-1&row=2&margin-w=12&margin-h=0&no-bg=true&no-frame=true&order=4" width="100%" height="150" alt="trophy graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarweshero&radius=20&theme=nightowl&area=true&order=5&hide_border=true&hide_title=false" width="100%" alt="activity-graph graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=sarweshero&theme=discord&column=-1&row=2&margin-w=12&margin-h=0&no-bg=true&no-frame=true&order=4" width="100%" height="150" alt="trophy graph" />
 
 </div>
 
@@ -140,56 +136,8 @@
 
 <br clear="both">
 
-```python
-from cosmos.planets import 🌏
-
-me = Git.GitHub.user.get(user="TitanNatesan")
-Titan = 🌏.objects.get(user=me)
-actions = ["Take a deep breath", "Go for a walk", "Listen to music", "Meditate"]
-i = 0
-
-while not Titan.mind.is_fine:
-    action = actions[i % len(actions)]
-    print(f"Relax and {action}...")
-    Titan.modify.state = action
-    Titan.save()
-    i += 1
-
-    if input("Do you feel better? (yes to stop, any other key to continue): ").lower() == 'yes':
-        Titan.mind.is_fine = True
-
-print("You are ready to go!")
-```
-<br clear="both">
 
 
-
-
----
-
-## 🔎 About Me
-
-I'm **Sarweshwar**, a passionate software engineer and co-founder of **Xyndrix**, a software solutions company delivering innovative web, AI, and Metaverse platforms. My expertise lies in building **scalable backend systems**, **intelligent applications**, and immersive digital experiences.
-
-### 💡 What I Do:
-- Design and build secure RESTful APIs using **Django REST Framework**
-- Develop intelligent tools using **Deep Learning (TensorFlow, PyTorch)**
-- Create interactive UIs with **React.js + Vite + Tailwind CSS**
-- Optimize infrastructure using **Docker, GitHub Actions, Nginx, Ubuntu**
-- Work on high-impact projects in **AI, SaaS, and the Metaverse**
-
----
-
-## 🧠 Tech Stack
-
-| Domain        | Technologies                                               |
-|---------------|------------------------------------------------------------|
-| 💻 Languages   | Python, JavaScript                                         |
-| 🔧 Backend     | Django, DRF, FastAPI, Celery                               |
-| 🧬 AI / DL     | TensorFlow, PyTorch, OpenCV                                |
-| 🎨 Frontend    | React.js, Vite, Tailwind CSS                               |
-| 🗄️ Database     | PostgreSQL, SQLite, Redis                                 |
-| ⚙️ DevOps      | Docker, Nginx, Ubuntu, GitHub Actions                      |
 
 ---
 
@@ -248,18 +196,30 @@ I'm **Sarweshwar**, a passionate software engineer and co-founder of **Xyndrix**
 | 🎴 Guess Playlist | [Guess My Playlist](https://guessmyplaylist.com)      |
 | 💥 SparkTunes     | [Battle with Your Songs](https://sparktunes.vantezzen.io) |
 
-### 🎧 Spotify UI Preview
-![Spotify UI](https://i.imgur.com/OiFfkIu.png)
-
-### 🎲 Spotiguess UI Preview
-![Spotiguess UI](https://i.imgur.com/g3kJZW1.png)
-
-### 🐍 Snake Game UI Preview
-![Spotify Snake Game](https://i.imgur.com/f8mVMP3.gif)
-
-
 
 ---
+
+```python
+from cosmos.planets import 🌏
+
+me = Git.GitHub.user.get(user="Sarweshero")
+Sarweshero = 🌏.objects.get(user=me)
+actions = ["Take a deep breath", "Go for a walk", "Listen to music", "Meditate"]
+i = 0
+
+while not Sarweshero.mind.is_fine:
+    action = actions[i % len(actions)]
+    print(f"Relax and {action}...")
+    Sarweshero.modify.state = action
+    Sarweshero.save()
+    i += 1
+
+    if input("Do you feel better? (yes to stop, any other key to continue): ").lower() == 'yes':
+        Sarweshero.mind.is_fine = True
+
+print("You are ready to go!")
+```
+<br clear="both">
 
 > 🧭 Keywords:  
 > `Sarweshwar`, `Sarweshero`, `Xyndrix`, `Metaverse Developer`, `Django Expert`, `Full Stack Python Developer`, `AI Engineer`, `Hack the Future Finalist`, `GitHub Portfolio`, `Deep Learning Developer`, `React Developer India`
