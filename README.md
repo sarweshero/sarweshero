@@ -1,5 +1,5 @@
 <span><h1 align="center">👋 Hi, I’m Sarweshwar (a.k.a. Sarweshero)</h1>
-  <img src="https://github.com/sarweshero.png?size=1000" width="1000" alt="Sarweshwar's Profile Photo" style="border-radius: 50%;" />
+  <img src="https://github.com/sarweshero.png?size=500" width="500" alt="Sarweshwar's Profile Photo" style="border-radius: 50%;" />
 </span>
 
 
