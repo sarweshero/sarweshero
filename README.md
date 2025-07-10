@@ -130,11 +130,20 @@
 ## 🪪 My Vibes Card
 
 <div align="center">
+
+  <!-- Quote Image -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" />
-  <a href="https://open.spotify.com/user/31i42qudlop4rbmnzyeu6tynaxsm">
-    <img width="60%" src="https://spotify-recently-played-readme.vercel.app/api?user=31i42qudlop4rbmnzyeu6tynaxsm&count=9&unique=true" alt="recently played" />
+
+  <!-- Spacer -->
+  <br><br>
+
+  <!-- Spotify Recently Played -->
+  <a href="https://open.spotify.com/user/31i42qudlop4rbmnzyeu6tynaxsm" target="_blank">
+    <img width="60%" src="https://spotify-recently-played-readme.vercel.app/api?user=31i42qudlop4rbmnzyeu6tynaxsm&count=2&unique=true" alt="Recently Played on Spotify" />
   </a>
+
 </div>
+
 
 <br clear="both">
 
