@@ -1,7 +1,6 @@
-<h1 align="center">👋 Hi, I’m Sarweshwar (a.k.a. Sarweshero)</h1>
-<p align="center">
-  <img src="https://github.com/sarweshero.png?size=200" width="160" alt="Sarweshwar's Profile Photo" style="border-radius: 50%;" />
-</p>
+<span><h1 align="center">👋 Hi, I’m Sarweshwar (a.k.a. Sarweshero)</h1>
+  <img src="https://github.com/sarweshero.png?size=1000" width="1000" alt="Sarweshwar's Profile Photo" style="border-radius: 50%;" />
+</span>
 
 
 <p align="center">
