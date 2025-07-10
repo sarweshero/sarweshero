@@ -129,18 +129,12 @@
 
 ## 🪪 My Vibes Card
 
-<div align="center" style="padding: 1rem; border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117;">
-
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" />
-
-  <br/>
-
-  <a href="https://open.spotify.com/user/31i42qudlop4rbmnzyeu6tynaxsm" target="_blank">
-    <img width="60%" src="https://spotify-recently-played-readme.vercel.app/api?user=31i42qudlop4rbmnzyeu6tynaxsm&count=9&unique=true" alt="Recently Played on Spotify" />
+  <a href="https://open.spotify.com/user/31i42qudlop4rbmnzyeu6tynaxsm">
+    <img width="60%" src="https://spotify-recently-played-readme.vercel.app/api?user=31i42qudlop4rbmnzyeu6tynaxsm&count=9&unique=true" alt="recently played" />
   </a>
-
 </div>
-
 
 <br clear="both">
 
