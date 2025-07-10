@@ -85,7 +85,7 @@ I'm **Sarweshwar**, a passionate software engineer and co-founder of **Xyndrix**
 
 | Platform          | Link                                                   |
 |------------------|--------------------------------------------------------|
-| 🎧 Spotify        | [Open on Spotify](https://open.spotify.com) |
+| 🎧 Spotify        | [Open on Spotify](https://open.spotify.com)           |
 | 🎵 Heardle        | [Play Heardle](https://www.heardle.com)               |
 | 🎲 Spotiguess     | [Play Spotiguess](https://spotiguess.com)             |
 | 🧠 Spotle         | [Play Spotle](https://spotle.net)                     |
@@ -93,6 +93,15 @@ I'm **Sarweshwar**, a passionate software engineer and co-founder of **Xyndrix**
 | 🐍 Snake Game     | [Spotify Snake Game](https://howtousespotify.com/spotify-snake-game/) |
 | 🎴 Guess Playlist | [Guess My Playlist](https://guessmyplaylist.com)      |
 | 💥 SparkTunes     | [Battle with Your Songs](https://sparktunes.vantezzen.io) |
+
+### 🎧 Spotify UI Preview
+![Spotify UI](https://i.imgur.com/OiFfkIu.png)
+
+### 🎲 Spotiguess UI Preview
+![Spotiguess UI](https://i.imgur.com/g3kJZW1.png)
+
+### 🐍 Snake Game UI Preview
+![Spotify Snake Game](https://i.imgur.com/f8mVMP3.gif)
 
 
 
