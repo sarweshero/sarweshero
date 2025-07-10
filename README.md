@@ -1,4 +1,8 @@
 <h1 align="center">👋 Hi, I’m Sarweshwar (a.k.a. Sarweshero)</h1>
+<p align="center">
+  <img src="https://github.com/sarweshero.png?size=200" width="160" alt="Sarweshwar's Profile Photo" style="border-radius: 50%;" />
+</p>
+
 
 <p align="center">
   🚀 Full-Stack Developer (Backend Focused) | 🧠 Deep Learning Engineer | 🛠️ Software Architect  
@@ -69,10 +73,27 @@ I'm **Sarweshwar**, a passionate software engineer and co-founder of **Xyndrix**
 
 | Platform   | Link                                                |
 |------------|-----------------------------------------------------|
-| 🔗 Portfolio | [https://sarweshero.vercel.app](https://sarweshero.vercel.app) |
+| 🔗 Portfolio | [https://sarweshero.vercel.app](https://sarweshero.me) |
 | 💼 LinkedIn | [linkedin.com/in/sarweshwar](https://linkedin.com/in/sarweshero) |
 | 💻 GitHub   | [github.com/sarweshero](https://github.com/sarweshero) |
 | 📧 Email    | [sarweshero@gmail.com](mailto:sarweshero@gmail.com) |
+
+---
+
+## 🎮 Fun & Links
+
+| Platform          | Link                                                   |
+|------------------|--------------------------------------------------------|
+| 🎧 Spotify        | [Open on Spotify](https://open.spotify.com) |
+| 🎵 Heardle        | [Play Heardle](https://www.heardle.com)               |
+| 🎲 Spotiguess     | [Play Spotiguess](https://spotiguess.com)             |
+| 🧠 Spotle         | [Play Spotle](https://spotle.net)                     |
+| 🕹️ More or Less   | [Spotify Popularity Game](https://moreorless.io/games/spotify) |
+| 🐍 Snake Game     | [Spotify Snake Game](https://howtousespotify.com/spotify-snake-game/) |
+| 🎴 Guess Playlist | [Guess My Playlist](https://guessmyplaylist.com)      |
+| 💥 SparkTunes     | [Battle with Your Songs](https://sparktunes.vantezzen.io) |
+
+
 
 ---
 
