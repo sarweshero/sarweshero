@@ -117,10 +117,9 @@ Here is your updated README exactly as provided, without any changes to the cont
 -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarweshero&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="200" alt="stats graph" />
+  ### 📈 GitHub Stats
   <br clear="both">
   <img src="https://streak-stats.demolab.com?user=sarweshero&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="180" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarweshero&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=midnight-purple&hide_border=true&order=2" height="180" alt="languages graph" />
 
 ### 🔝 Top Contributed Repo
 
@@ -174,14 +173,6 @@ Here is your updated README exactly as provided, without any changes to the cont
   * Retail analytics via computer vision
   * Intelligent chatbots and automation tools
 
----
-
-## 📈 GitHub Stats
-
-![Sarweshwar GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarweshero\&show_icons=true\&theme=tokyonight\&title_color=58a6ff\&text_color=c9d1d9) <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarweshero\&layout=compact\&theme=tokyonight\&langs_count=6)
-
----
 
 ## 🌐 Online Presence
 
