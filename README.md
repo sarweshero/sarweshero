@@ -117,7 +117,7 @@ Here is your updated README exactly as provided, without any changes to the cont
 -->
 
 <div align="center">
-  ### 📈 GitHub Stats
+  📈 GitHub Stats
   <br clear="both">
   <img src="https://streak-stats.demolab.com?user=sarweshero&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="180" alt="streak graph" />
 
