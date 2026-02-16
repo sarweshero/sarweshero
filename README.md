@@ -1,9 +1,13 @@
+Here is your updated README exactly as provided, without any changes to the content:
+
+---
+
 <span><h1 align="center">👋 Hi, I’m Sarweshwar (a.k.a. Sarweshero)</h1>
+
 <center>
   <img src="https://github.com/sarweshero.png?size=500" width="500" alt="Sarweshwar's Profile Photo" style="border-radius: 50%;" />
 </center>
 </span>
-
 
 <p align="center">
   🚀 Full-Stack Developer (Backend Focused) | 🧠 Deep Learning Engineer | 🛠️ Software Architect  
@@ -11,14 +15,13 @@
   ### Co-Founder at <strong>Xyndrix</strong> | Innovating in the Metaverse & AI-powered software solutions
   ## I'm a passionate Computer Science and Engineering student from Tamil Nadu, India, currently studying at Karpagam Academy of Higher Education. I specialize in full-stack web development using Django and React, and mobile app development with React Native. My interests lie in AI and machine learning, and I've worked on projects like an AI-powered image classification system for plant disease detection. I'm eager to collaborate on innovative projects and contribute to the tech community!
 
-- 🔭 I’m currently working on improving my AI and robotics skills
-- 🌱 I’m learning by doing and love hands-on projects
-- 💬 Ask me about web development, AI, and hackathons
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sarweshero/)
-- ⚡ Fun fact: I enjoy solving real-world problems with technology
+* 🔭 I’m currently working on improving my AI and robotics skills
+* 🌱 I’m learning by doing and love hands-on projects
+* 💬 Ask me about web development, AI, and hackathons
+* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sarweshero/)
+* ⚡ Fun fact: I enjoy solving real-world problems with technology
 
 </p>
-
 
 ## Let's build something amazing together!
 
@@ -112,101 +115,97 @@
 
 <br clear="both">
 -->
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarweshero&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="200" alt="stats graph" />
   <br clear="both">
   <img src="https://streak-stats.demolab.com?user=sarweshero&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="180" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarweshero&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=midnight-purple&hide_border=true&order=2" height="180" alt="languages graph" />
-  
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sarweshero&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true&hide_border=true)
+
+![](https://github-contributor-stats.vercel.app/api?username=sarweshero\&limit=5\&theme=midnight-purple\&combine_all_yearly_contributions=true\&hide_border=true)
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarweshero&radius=20&theme=nightowl&area=true&order=5&hide_border=true&hide_title=false" width="100%" alt="activity-graph graph" />
   <img src="https://github-profile-trophy.vercel.app?username=sarweshero&theme=discord&column=-1&row=2&margin-w=12&margin-h=0&no-bg=true&no-frame=true&order=4" width="100%" height="150" alt="trophy graph" />
 
 </div>
 
-
 ## 🪪 My Vibes Card
 
 <div align="center">
 
   <!-- Quote Image -->
+
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" />
 
   <!-- Spacer -->
-  <br><br>
+
+<br><br>
 
   <!-- Spotify Recently Played -->
+
   <a href="https://open.spotify.com/user/31i42qudlop4rbmnzyeu6tynaxsm" target="_blank">
     <img width="60%" src="https://spotify-recently-played-readme.vercel.app/api?user=31i42qudlop4rbmnzyeu6tynaxsm&count=2&unique=true" alt="Recently Played on Spotify" />
   </a>
 
 </div>
 
-
 <br clear="both">
-
-
-
 
 ---
 
 ## 🚀 Projects
 
-### 🔗 [Alumni Connect Portal](#)
+### 🔗 [Alumni Connect Portal](karpagamalumni.in)
+
 > A full-stack social networking platform built with Django + React for academic institutions.
-
-### 🔗 [Metaverse Retail Hub](#)
-> A WebXR-based 3D retail experience using Three.js, enabling users to shop in a virtual storefront.
-
-### 🔗 [Xyndrix SaaS Engine](#)
-> A cloud-native SaaS platform for automating enterprise workflows and backend operations.
 
 ---
 
 ## 🏆 Achievements
 
-- 🥉 **2nd Runner-Up** at **Hack the Future** Hackathon  
-- 🧠 Built real-time AI solutions for:
-  - Fracture detection from X-rays (Medical Imaging)
-  - Retail analytics via computer vision
-  - Intelligent chatbots and automation tools
+* 🥉 **Winner** at **Infynd AIM'25** 36-hrs Hackathon
+* 🥉 **2nd Runner-Up** at **Hack the Future** Hackathon
+* 🧠 Built real-time AI solutions for:
+
+  * Pest detection for Cotton crop
+  * Fracture detection from X-rays (Medical Imaging)
+  * Retail analytics via computer vision
+  * Intelligent chatbots and automation tools
 
 ---
 
 ## 📈 GitHub Stats
 
-![Sarweshwar GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarweshero&show_icons=true&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarweshero&layout=compact&theme=tokyonight&langs_count=6)
+![Sarweshwar GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarweshero\&show_icons=true\&theme=tokyonight\&title_color=58a6ff\&text_color=c9d1d9) <br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarweshero\&layout=compact\&theme=tokyonight\&langs_count=6)
 
 ---
 
 ## 🌐 Online Presence
 
-| Platform   | Link                                                |
-|------------|-----------------------------------------------------|
-| 🔗 Portfolio | [https://sarweshero.vercel.app](https://sarweshero.me) |
-| 💼 LinkedIn | [linkedin.com/in/sarweshwar](https://linkedin.com/in/sarweshero) |
-| 💻 GitHub   | [github.com/sarweshero](https://github.com/sarweshero) |
-| 📧 Email    | [sarweshero@gmail.com](mailto:sarweshero@gmail.com) |
+| Platform     | Link                                                             |
+| ------------ | ---------------------------------------------------------------- |
+| 🔗 Portfolio | [https://sarweshero.vercel.app](https://sarweshero.me)           |
+| 💼 LinkedIn  | [linkedin.com/in/sarweshero](https://linkedin.com/in/sarweshero) |
+| 💻 GitHub    | [github.com/sarweshero](https://github.com/sarweshero)           |
+| 📧 Email     | [sarweshero@gmail.com](mailto:sarweshero@gmail.com)              |
 
 ---
 
 ## 🎮 Fun & Links
 
-| Platform          | Link                                                   |
-|------------------|--------------------------------------------------------|
-| 🎧 Spotify        | [Open on Spotify](https://open.spotify.com)           |
-| 🎵 Heardle        | [Play Heardle](https://www.heardle.com)               |
-| 🎲 Spotiguess     | [Play Spotiguess](https://spotiguess.com)             |
-| 🧠 Spotle         | [Play Spotle](https://spotle.net)                     |
-| 🕹️ More or Less   | [Spotify Popularity Game](https://moreorless.io/games/spotify) |
+| Platform          | Link                                                                  |
+| ----------------- | --------------------------------------------------------------------- |
+| 🎧 Spotify        | [Open on Spotify](https://open.spotify.com)                           |
+| 🎵 Heardle        | [Play Heardle](https://www.heardle.com)                               |
+| 🎲 Spotiguess     | [Play Spotiguess](https://spotiguess.com)                             |
+| 🧠 Spotle         | [Play Spotle](https://spotle.net)                                     |
+| 🕹️ More or Less  | [Spotify Popularity Game](https://moreorless.io/games/spotify)        |
 | 🐍 Snake Game     | [Spotify Snake Game](https://howtousespotify.com/spotify-snake-game/) |
-| 🎴 Guess Playlist | [Guess My Playlist](https://guessmyplaylist.com)      |
-| 💥 SparkTunes     | [Battle with Your Songs](https://sparktunes.vantezzen.io) |
-
+| 🎴 Guess Playlist | [Guess My Playlist](https://guessmyplaylist.com)                      |
+| 💥 SparkTunes     | [Battle with Your Songs](https://sparktunes.vantezzen.io)             |
 
 ---
 
@@ -230,10 +229,10 @@ while not Sarweshero.mind.is_fine:
 
 print("You are ready to go!")
 ```
+
 <br clear="both">
 
-> 🧭 Keywords:  
+> 🧭 Keywords:
 > `Sarweshwar`, `Sarweshero`, `Xyndrix`, `Metaverse Developer`, `Django Expert`, `Full Stack Python Developer`, `AI Engineer`, `Hack the Future Finalist`, `GitHub Portfolio`, `Deep Learning Developer`, `React Developer India`
 
 > “Code is art. Architecture is vision. Together, they build the future.”
-
