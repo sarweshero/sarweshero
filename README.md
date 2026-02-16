@@ -1,10 +1,14 @@
 
-<span><h1 align="center">👋 Hi, I’m Sarweshwar (alias Sarweshero)</h1>
+<h1 align="center">👋 Hi, I’m Sarweshwar (alias Sarweshero)</h1>
 
-<center>
-  <img src="https://github.com/sarweshero.png?size=500" width="500" alt="Sarweshwar's Profile Photo" style="border-radius: 50%;" />
-</center>
-</span>
+<p align="center">
+  <img 
+    src="https://github.com/sarweshero.png?size=500" 
+    width="300" 
+    alt="Sarweshwar's Profile Photo" 
+    style="border-radius: 50%;" 
+  />
+</p>
 
 <p align="center">
   🚀 Full-Stack Developer (Backend Focused) | 🧠 Deep Learning Engineer | 🛠️ Software Architect  
