@@ -1,14 +1,30 @@
+<h1 align="center">
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="35px"
+  />
+  Hi, I’m Sarweshwar (alias Sarweshero)
+</h1>
 
-<h1 align="center">👋 Hi, I’m Sarweshwar (alias Sarweshero)</h1>
 
 <p align="center">
-  <img 
-    src="https://github.com/sarweshero.png?size=500" 
-    width="300" 
-    alt="Sarweshwar's Profile Photo" 
-    style="border-radius: 50%;" 
-  />
+  <span style="
+        display:inline-block;
+        padding: 10px;
+        border-radius: 50%;
+        background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, rgba(0,191,255,0.05) 70%);
+        box-shadow:
+          0 10px 20px rgba(0,0,0,0.25),
+          0 0 30px rgba(0,191,255,0.5),
+          0 0 60px rgba(0,191,255,0.3);
+      ">
+    <img src="https://github.com/sarweshero.png?size=500" 
+         width="220" 
+         style="border-radius:50%; display:block;" 
+         alt="Sarweshwar's Avatar"/>
+  </span>
 </p>
+
 
 <p align="center">
   🚀 Full-Stack Developer (Backend Focused) | 🧠 Deep Learning Engineer | 🛠️ Software Architect  
