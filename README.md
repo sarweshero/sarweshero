@@ -1,8 +1,5 @@
-Here is your updated README exactly as provided, without any changes to the content:
 
----
-
-<span><h1 align="center">👋 Hi, I’m Sarweshwar (a.k.a. Sarweshero)</h1>
+<span><h1 align="center">👋 Hi, I’m Sarweshwar (alias Sarweshero)</h1>
 
 <center>
   <img src="https://github.com/sarweshero.png?size=500" width="500" alt="Sarweshwar's Profile Photo" style="border-radius: 50%;" />
